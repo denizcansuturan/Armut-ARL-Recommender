@@ -15,7 +15,7 @@
 
 # -UserId
 
-# -ServiceId: Services for categories (Örnek :sofa cleaning service under the cleaning category)
+# -ServiceId: Services for categories (Ex :sofa cleaning service under the cleaning category)
 # A ServiceId can be found under different categories and represents different services under different categories.
 # The service with CategoryId 7 and ServiceId 4 is radiator cleaning,
 # while the service with CategoryId 2 and ServiceId 4 is furniture assembly.
