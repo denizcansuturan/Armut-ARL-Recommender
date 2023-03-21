@@ -39,7 +39,7 @@ from mlxtend.frequent_patterns import apriori, association_rules
 
 # Step 1: read armut_data.csv file
 
-df = pd.read_csv("D:/MIUUL/RECOMMENDATİON SYSTEMS/recommender_systems/CASE STUDY 1/armut_data.csv")
+df = pd.read_csv("location")
 
 # Step 2: Each ServiceID represents a different service for each CategoryID.
 # Create a new variable representing the services by combining ServiceID and CategoryID with an underscore.
